@@ -1,5 +1,6 @@
-int ledpin=5;
-int btnpin=2;
+// From this tutorial you can learn about port manipulation
+int ledpin=5; // pin connected to digitaloutput 5
+int btnpin=2; // pin connected to digitaloutput 2
 void setup() {
 
 //Serial.begin(9600);
